@@ -1,0 +1,1 @@
+Gazelle Door --> [[Room4]]

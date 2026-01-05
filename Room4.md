@@ -1,0 +1,26 @@
+### Spring Room
+- Room4 -->
+	- Non horned bird
+	- Small anti chamber
+	- 3 pathways with different markings
+	- carved out or dug up, much more natural
+	- what once was a courtyard or garden, is now overrun with bramble + corruption
+	- Inscription with antlers
+		- "He knows all turns of these halls Corrin, chosen guide of the horn-bearers. He brings the faithful safely through stone and shadow."
+		- Deer antlers
+	- The bramble is coming from the floor and ceiling
+	- everything leads here
+	- Choices
+		- Bull horns
+		- Ram horns
+		- Ram horns
+		- Gazelle door (just came from)
+	- After blowing the horn a green glow, bolt beacon is cast and pops some pollen pods revealing up a dried up stone fountain with a broken spout in the shape of a bird. At the center of the fountain is a bronze plaque that reads
+		- **"Spring"**
+		- "Where all journeys were once permitted to begin."
+	- Casts Drown Willow, and the fountain spout shows a green glow, further down the pathway.
+	- Cathedral doors, one is broken and learning off its hinge, and the other is shattered and rotting leaving a stench
+	- Inside is a room with a dome, a green glowing boulder statue of a cave, nests and eggs and stone carved beasts, flaked off paintings on the roof, [rotting flesh smell as the pollen falls from the ceiling](Witherwild), stone creatures drinking water. On each quarter of the dome there more church archways, each with their own unique shape, and are unconventional and altered poorly to represent [horns](Hornucopia.md), bastardized to look like [horns](Hornucopia)
+		- All the animals have horns placed on made of wood, but sculpted by stone bear cubs, eggs nests, snakes, creatures leaving the shelter, [victimized by the rotting purple flowers and vines](Witherwild)
+		- Humid
+	- Choose [Summer/Autumn Door](Room5)

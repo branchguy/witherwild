@@ -1,0 +1,15 @@
+### Tree / Summer Room
+- Came from Autumn/Summer Glow, Rams Horn columns on the ground
+- Dry heat
+- Caveman drawings with black charcoal like walls
+	- All animals Horned drawings even those that would normally have none (even birds and squirrels)
+	- After blowing the horn, I see parrots sprouting from the ground and a hand trying to harvest the crops, with talons
+- A center stone tree
+	- The heavy lines the represent the bark, moss carved on to a specific side towards the Unicorn Door
+- Center archways, they looks reused to create horn symbols
+- Doors
+	- Cones like a bull
+	- Antler Door
+	- Unicorn Door (glows yellow after blowing for Fall)
+- Knife sharpening
+- We go through [Fall/Unicorn Doorway](Room6)
