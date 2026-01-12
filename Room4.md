@@ -24,3 +24,5 @@
 		- All the animals have horns placed on made of wood, but sculpted by stone bear cubs, eggs nests, snakes, creatures leaving the shelter, [victimized by the rotting purple flowers and vines](Witherwild)
 		- Humid
 	- Choose [Summer/Autumn Door](Room5)
+
+tags: #dungeon
