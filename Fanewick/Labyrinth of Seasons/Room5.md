@@ -12,6 +12,6 @@
 	- Antler Door
 	- Unicorn Door (glows yellow after blowing for Fall)
 - Knife sharpening
-- We go through [Fall/Unicorn Doorway](Room6)
+- We go through [Fall/Unicorn Doorway](Room6.md)
 
 tags: #dungeon

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c68d337f7e392da9",
+        "id": "0e772f1233907478",
         "type": "tabs",
         "children": [
           {
-            "id": "4e8ecfeaf126396a",
+            "id": "ca5a8d15905bff09",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -157,47 +157,101 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "3bbc9b8820faedfd",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          },
+          {
+            "id": "a6180783cd860012",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "c1cba483e4a984f4",
+            "type": "leaf",
+            "state": {
+              "type": "smart-lookup-view",
+              "state": {},
+              "icon": "smart-lookup",
+              "title": "Lookup"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "4e8ecfeaf126396a",
+  "active": "ca5a8d15905bff09",
   "lastOpenFiles": [
-    "Drowned Willow.md",
-    "Labyrinth.md",
-    "Hornucopia.md",
-    "Corrin, the Unicorn.md",
-    "Witherwild.md",
-    "Room8.md",
-    "Room7.md",
-    "Room6.md",
-    "Room5.md",
-    "Room4.md",
-    "Room3.md",
-    "Room2.md",
-    "Room1.md",
-    "Ophelia.md",
-    "Pasted image 20260111224357.png",
-    "Pasted image 20260111224408.png",
+    "Spruce.md",
+    "Characters/Main Cast/Kuo Lema El Lema.md",
+    "Haven/Haven.md",
+    "Characters/Hornucopia/Adarra.md",
+    "Characters/Hornucopia/Beaudy.md",
+    "Characters/Hornucopia",
+    "Book 2/Session 11/Molten Reed Camp.md",
+    "Book 2/Session 11/Heading to Bed.md",
+    "Book 2/Session 11/Party in Hornucopia.md",
+    "Fanewick/The Scarlet Yield.md",
+    "Characters/Hornucopia/Ruma.md",
+    "Characters/Main Cast/Luna.md",
+    "Marlu.md",
+    "Characters/Main Cast/Bug.md",
+    "Fanewick/Silversung.md",
+    "Fanewick/The Treasure Spot.md",
+    "Fanewick/Bellwood.md",
+    "Characters/Hornucopia/Velor.md",
+    "Characters/Hornucopia/Vor.md",
+    "Fanewick/Fanewick.md",
+    "Characters/Main Cast/Ophelia.md",
+    "Book 1/Session 9/Hornucopia Spring.md",
+    "Characters/Main Cast/Kaen Evelin.md",
+    "Weapons/Nadris.md",
+    "Haven/The Meridian Forge.md",
+    "Characters/Hornucopia/Murk.md",
+    "Fanewick/Labyrinth of Seasons/Room8.md",
+    "Book 2/Session 11",
+    "Book 2",
+    "Haven",
+    "Book 1/Session 9",
+    "Book 1/Session 10",
+    "Book 1",
+    "Fanewick",
+    "Weapons",
+    "Characters/Main Cast",
     "Untitled.canvas",
-    "2026-01-04.md",
-    "Rom4.md",
-    "rotting.md",
-    "Welcome.md"
+    "Pasted image 20260111224357.png",
+    "Pasted image 20260111224408.png"
   ]
 }

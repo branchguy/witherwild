@@ -31,7 +31,7 @@
 - "Why is the statue glowing? The **old powers of the labyrinth** shouldn't be working here but they are"
 
 
-We follow Korrin through the [glowing archway](Room8)
+We follow Korrin through the [glowing archway](Room8.md)
 
 
 tags: #dungeon

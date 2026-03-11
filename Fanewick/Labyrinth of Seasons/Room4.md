@@ -20,9 +20,9 @@
 		- "Where all journeys were once permitted to begin."
 	- Casts Drown Willow, and the fountain spout shows a green glow, further down the pathway.
 	- Cathedral doors, one is broken and learning off its hinge, and the other is shattered and rotting leaving a stench
-	- Inside is a room with a dome, a green glowing boulder statue of a cave, nests and eggs and stone carved beasts, flaked off paintings on the roof, [rotting flesh smell as the pollen falls from the ceiling](Witherwild), stone creatures drinking water. On each quarter of the dome there more church archways, each with their own unique shape, and are unconventional and altered poorly to represent [horns](Hornucopia.md), bastardized to look like [horns](Hornucopia)
+	- Inside is a room with a dome, a green glowing boulder statue of a cave, nests and eggs and stone carved beasts, flaked off paintings on the roof, [rotting flesh smell as the pollen falls from the ceiling](Witherwild), stone creatures drinking water. On each quarter of the dome there more church archways, each with their own unique shape, and are unconventional and altered poorly to represent [horns](Hornucopia.md), bastardized to look like [horns](Hornucopia.md)
 		- All the animals have horns placed on made of wood, but sculpted by stone bear cubs, eggs nests, snakes, creatures leaving the shelter, [victimized by the rotting purple flowers and vines](Witherwild)
 		- Humid
-	- Choose [Summer/Autumn Door](Room5)
+	- Choose [Summer/Autumn Door](Room5.md)
 
 tags: #dungeon

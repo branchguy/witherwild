@@ -12,6 +12,6 @@
 	- Snow covering below the trees
 	- Budding / Flourishing of the forest
 	- Dull overcast sun in the center, where a wingspan eclipses the sun
-- Made it past the brambles towards the [Winter Doorway](Room7)
+- Made it past the brambles towards the [Winter Doorway](Room7.md)
 
 tags: #dungeon
