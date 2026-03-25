@@ -1,6 +1,6 @@
-[[Ruma]] retells the story, but leaves out the atrocities that [[Vor]] commited.
+[[Ruma]] retells the story, but leaves out the atrocities that [[Vor Ironblood]] commited.
 
-[[Velor]] speaks about his dad [[Vor]] condemning his actions
+[[Vellor Ironblood]] speaks about his dad [[Vor Ironblood]] condemning his actions
 
 > "I want to protect our community"
 

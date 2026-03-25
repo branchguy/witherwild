@@ -1,2 +1,5 @@
-[[Luna]]'s pet cow sized rolly-polly
+[[Luna]]'s pet that will become a cow-sized rolly-polly
+
+Currently growing
+
 tags: #character 

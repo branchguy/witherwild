@@ -48,6 +48,27 @@
         "a": 1,
         "rgb": 551399
       }
+    },
+    {
+      "query": "tag:#monster  ",
+      "color": {
+        "a": 1,
+        "rgb": 9589472
+      }
+    },
+    {
+      "query": "tag:#item  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431497
+      }
+    },
+    {
+      "query": "tag:#group  ",
+      "color": {
+        "a": 1,
+        "rgb": 13791391
+      }
     }
   ],
   "collapse-display": true,
@@ -60,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.2212732264845934,
+  "scale": 1.2572257901644912,
   "close": true
 }

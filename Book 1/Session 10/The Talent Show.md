@@ -1,6 +1,6 @@
 All citizens of [[Hornucopia]] are present and [[Adarra]] and [[Murk]].
 
-[[Lyra]]  the child asks [[Kuo Lema El Lema]] what his talent his and he attempts a comedy show, not so successfully
+[[Lyra Finch]]  the child asks [[Kuo Lema El Lema]] what his talent his and he attempts a comedy show, not so successfully
 
 [[Luna]] dances on the stage.
 

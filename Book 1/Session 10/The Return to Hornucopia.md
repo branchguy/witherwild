@@ -1,6 +1,6 @@
 Setting: [[The Blooming Grove]]
 
-Small community in shock of the death of [[Vor]], and the victory of our party and saving of Ruma
+Small community in shock of the death of [[Vor Ironblood]], and the victory of our party and saving of Ruma
 
 The party is finally able to take a long rest in the home of [[Ruma]]
 

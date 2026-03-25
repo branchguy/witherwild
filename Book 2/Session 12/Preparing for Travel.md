@@ -6,19 +6,19 @@
 
 [[Kaen Evelin]] and [[Ophelia]] head to the shop 
 
-[[Kaen Evelin]] looks for potions at [[Evergreen Trading Coop]] owned by the Dwarven Shopowner [[Adrian]] and his daughter [[Lyra]]
+[[Kaen Evelin]] looks for potions at [[Evergreen Trading Coop]] owned by the Dwarven Shopowner [[Edrian Finch]] and his daughter [[Lyra Finch]]
 - Received Stride + Health Potion for one handful each
 
-Ophelia, talking to [[Adrian]] and learned [[Lyra]] took water from the [[Moonpearl]].
-Ophelia asks Adrian which is the best route west just traveling
-> Adrian: "The convenient bridge takes weeks off the trip, but there's a toll."
+Ophelia, talking to [[Edrian Finch]] and learned [[Lyra Finch]] took water from the [[The Moonpearl]].
+Ophelia asks Edrian which is the best route west just traveling
+> Edrian: "The convenient bridge takes weeks off the trip, but there's a toll."
 > Bellwood is the best trade city in Fanewick, but very "persuasive" folks if you find yourself in the wrong crowd, many people do ships for hire for travel
 > Ophelia asks: What do you know about [[Silversung]]?
-> Adrian: Never been, I want to avoid that mess, so I prefer [[Bellwood]]
+> Edrian: Never been, I want to avoid that mess, so I prefer [[Bellwood]]
 > Lyra: Are you leaving? Is Kaen nice?
 > Ophelia: He's nicer than he looks
 > Lyra: Dad are you going to help them?
-> Adrian: Do you need bedrolls?
+> Edrian: Do you need bedrolls?
 
 Party obtains bedrolls for the journey
 

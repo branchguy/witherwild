@@ -1,11 +1,11 @@
 Arrive at a circus-like tent, with a red banner of an axe bow crossed
 
-[[Ruma]] and [[Velor]] are on a stage, gathered around by refugees displaced by [[The Scarlet Yield]] to the North.
+[[Ruma]] and [[Vellor Ironblood]] are on a stage, gathered around by refugees displaced by [[The Scarlet Yield]] to the North.
 
 > "[Marlu](Marlu the Sky Painter) is an exceptionally bold faint divinity, if the [[Witherwild]] has broken nature, then someone as old as the sky painter must know what must have broken that cycle"
 
 > [[Ruma]]: "According to the spirits, [[Marlu the Sky Painter]] resides here (near the west tree)"
-> [[Velor]]: "We can't send our people there, there's not enough to protect [[Hornucopia]]"
+> [[Vellor Ironblood]]: "We can't send our people there, there's not enough to protect [[Hornucopia]]"
 > [[Ruma]]: "I'm worried [[Witherwild]] will pose a bigger problem than we expect, we are not as safe from that conflict than we think"
 
 > [[Ruma]]: "Help me fix the [[Witherwild]]"

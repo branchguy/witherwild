@@ -1,4 +1,6 @@
-[[Labyrinth of Seasons]] Boss
+Once a chosen leader of the divine [[The Wandering Horn]]
+
+[[Labyrinth of Seasons]] Boss due to corruption + infections
 
 
 Description: 
