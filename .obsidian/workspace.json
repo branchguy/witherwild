@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0e772f1233907478",
+        "id": "0cf15610b6256d49",
         "type": "tabs",
         "children": [
           {
-            "id": "ca5a8d15905bff09",
+            "id": "38e21bce87b45e2e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Main Cast/Kaen Evelin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kaen Evelin"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1cc17357930a4fe9",
@@ -212,44 +217,44 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "ca5a8d15905bff09",
+  "active": "38e21bce87b45e2e",
   "lastOpenFiles": [
-    "Spruce.md",
-    "Characters/Main Cast/Kuo Lema El Lema.md",
-    "Haven/Haven.md",
-    "Characters/Hornucopia/Adarra.md",
-    "Characters/Hornucopia/Beaudy.md",
-    "Characters/Hornucopia",
+    "Fanewick/Labyrinth of Seasons/Room7.md",
+    "Book 2/Session 12/The Farm next to the Lake.md",
+    "Book 2/Session 12/The MoonMeadow Sheep House.md",
+    "Walla MoonMeadow.md",
+    "Fanewick/MoonMeadow Farm.md",
+    "Characters/Wilt MoonMeadow.md",
+    "Monsters",
+    "Characters/Silversung",
+    "Characters/Faint Divinities/The Leaf Crab.md",
+    "Characters/Faint Divinities/The Wind Swept.md",
+    "Book 2/Session 12/Preparing for Travel.md",
+    "Monsters/Strixwolves.md",
+    "Book 2/Session 12/Journey to Silversung.md",
+    "Fanewick/Willow Kai.md",
+    "Fanewick/Hornucopia",
+    "Fanewick/Gnome Brewing.md",
+    "Characters/Hornucopia/Lyra.md",
+    "Characters/Hornucopia/Adrian.md",
+    "Fanewick/Hornucopia/Evergreen Trading Coop.md",
+    "Fanewick/Moonpearl.md",
     "Book 2/Session 11/Molten Reed Camp.md",
     "Book 2/Session 11/Heading to Bed.md",
     "Book 2/Session 11/Party in Hornucopia.md",
+    "Characters/Hornucopia/Adarra.md",
+    "Book 2/Session 12",
+    "Book 2/Session 11/Untitled",
+    "Characters/Silversung/Spruce.md",
+    "Characters/Main Cast/Kuo Lema El Lema.md",
+    "Haven/Haven.md",
+    "Characters/Hornucopia/Beaudy.md",
+    "Characters/Hornucopia",
     "Fanewick/The Scarlet Yield.md",
-    "Characters/Hornucopia/Ruma.md",
-    "Characters/Main Cast/Luna.md",
-    "Marlu.md",
-    "Characters/Main Cast/Bug.md",
-    "Fanewick/Silversung.md",
-    "Fanewick/The Treasure Spot.md",
-    "Fanewick/Bellwood.md",
-    "Characters/Hornucopia/Velor.md",
-    "Characters/Hornucopia/Vor.md",
-    "Fanewick/Fanewick.md",
-    "Characters/Main Cast/Ophelia.md",
-    "Book 1/Session 9/Hornucopia Spring.md",
-    "Characters/Main Cast/Kaen Evelin.md",
-    "Weapons/Nadris.md",
-    "Haven/The Meridian Forge.md",
-    "Characters/Hornucopia/Murk.md",
-    "Fanewick/Labyrinth of Seasons/Room8.md",
     "Book 2/Session 11",
     "Book 2",
     "Haven",
     "Book 1/Session 9",
-    "Book 1/Session 10",
-    "Book 1",
-    "Fanewick",
-    "Weapons",
-    "Characters/Main Cast",
     "Untitled.canvas",
     "Pasted image 20260111224357.png",
     "Pasted image 20260111224408.png"
