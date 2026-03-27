@@ -3,4 +3,10 @@ Leader of a rebellion / bloodless coup to overthrow the [[House of Evelin]], he 
 
 He genuinely believes he's a patriot, someone that will rule his domain and ultimately gain enough influence to save [[Colossa]] from chaos. 
 
+#### Current Status
+- Age: 37
+- Ruling over [[Aberdeen]]
+- Weapon: Rapier
+- Plotting to expand territory
+
 tags: #character 

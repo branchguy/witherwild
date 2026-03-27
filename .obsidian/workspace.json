@@ -187,14 +187,23 @@
               "icon": "smart-lookup",
               "title": "Lookup"
             }
+          },
+          {
+            "id": "9803a3fb597e7191",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 457.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,11 +218,30 @@
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Smart Lookup: Open lookup view": false,
       "smart-connections:Smart Connections: Open random connection": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "d6d1738de0e838d0",
   "lastOpenFiles": [
+    "Geography/Fanewick/The Treasure Spot.md",
+    "Characters/Haven/Aberdeen/Lady Katherine Evelin.md",
+    "Characters/Haven/Aberdeen/Miron Evelin.md",
+    "Characters/Haven/Aberdeen/Caedric Evelin.md",
+    "Characters/Haven/Aberdeen/Lady Maria Evelin.md",
+    "Characters/Haven/Aberdeen/Lord John-Paul Evelin.md",
+    "Characters/Haven/Aberdeen/Alistair Evelin.md",
+    "Characters/Haven/Aberdeen/Sir E'laina Stormvale \"Ironbird\".md",
+    "Characters/Main Cast/Bug.md",
+    "Characters/Main Cast/Kaen Evelin.md",
+    "Characters/Main Cast/Kuo Lema El Lema.md",
+    "Characters/Main Cast/Luna.md",
+    "Characters/Haven/Aberdeen/Lord Severic Draemont.md",
+    "Characters/Main Cast/Ophelia.md",
+    "Purple Coats.md",
+    "Map.png",
+    "Geography/Haven/The Weeping City.md",
+    "Map.md",
     "Geography/Fanewick/Silversung.md",
     "Geography/Fanewick/Bellwood.md",
     "Characters/Faint Divinities/Marlu the Sky Painter.md",
@@ -223,26 +251,9 @@
     "Characters/Fanewick/Hornucopia/Spryback.md",
     "MoonMeadow babies.md",
     "Geography/Fanewick/The Moonpearl.md",
-    "Geography/Fanewick/The Hive.md",
-    "Geography/Haven/Bufu Peak.md",
-    "Geography/Haven/The Goliath's Spine.md",
-    "Geography/Haven/The Weeping City.md",
-    "Items/Cornu Varis.md",
-    "Geography/Haven/Marr Domain.md",
     "Items",
-    "Items/Crimson Lily.md",
-    "Monsters/Strixwolves.md",
-    "Characters/Main Cast/Kaen Evelin.md",
-    "Characters/Haven/Untitled.md",
     "Characters/Haven/Colossa/Blood Hollow",
     "Characters/Haven/Colossa",
-    "Characters/Fanewick/Willokai/Daphne - Ophelia's Grandma.md",
-    "Characters/Main Cast/Luna.md",
-    "Geography/Fanewick/The Scarlet Yield.md",
-    "Geography/Fanewick/MoonMeadow Farm.md",
-    "Characters/Haven/Aberdeen/Sir E'laina Stormvale \"Ironbird\".md",
-    "Characters/Haven/Colossa/Blood Hollow/Vaelran \"Bloodrend\" Torvayne.md",
-    "Characters/Main Cast/Bug.md",
     "Characters/Haven/Aberdeen",
     "Characters/Fanewick/Willokai",
     "Characters/Haven",

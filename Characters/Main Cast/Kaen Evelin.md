@@ -16,6 +16,9 @@ Weapon of Choice:
 
 Glass Cannon Warrior
 
+#### Current Status
+- Age: 25ish
+- Adventuring with the main cast
 
 
 tags: #maincast 
