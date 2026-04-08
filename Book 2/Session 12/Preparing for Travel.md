@@ -1,3 +1,5 @@
+Currently at [[Hornucopia]]
+
 - 3 paths
 	- Coastal City of [[Bellwood]]
 	- "Hero Trap" through [[The Treasure Spot]] which may or may not have a bridge
