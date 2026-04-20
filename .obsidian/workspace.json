@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "cbfc7e8d913de48d",
+        "id": "8bb9f56791c938fc",
         "type": "tabs",
         "children": [
           {
-            "id": "d6d1738de0e838d0",
+            "id": "ebb519efe1d35caa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book 2/Session 13/MoonMeadow \"Sheep\" Battle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MoonMeadow \"Sheep\" Battle"
-            }
-          },
-          {
-            "id": "d060c43c8683018f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book 2/Session 13/Aftermath at the Barn.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aftermath at the Barn"
-            }
-          },
-          {
-            "id": "014c6901befb0fc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book 2/Session 13/Path to Silversung By The Water.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Path to Silversung By The Water"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,34 +224,37 @@
   },
   "active": "9803a3fb597e7191",
   "lastOpenFiles": [
-    "Book 2/Session 13/Aftermath at the Barn.md",
-    "copilot/copilot-conversations/Book_2Session_13_Give_me_a_short_session_title@20260407_220821.md",
+    "Book 2/Session 14/Arriving at Silversung.md",
+    "Characters/Fanewick/Silversung/Esh Grubpick.md",
+    "Characters/Fanewick/MoonMeadow Farm/Lequacious.md",
+    "Book 2/Session 14/The One and Only Gnome Brewing.md",
+    "Book 2/Session 14/Kaen and Kuo make contact.md",
+    "Book 2/Session 14/Ophelia and Luna sneak in.md",
+    "copilot/copilot-conversations/Session_14_Summary_Title@20260419_220421.md",
+    "Sulphie.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "Characters/Fanewick/Silversung/Jasper.md",
+    "copilot/copilot-conversations/Book_2_What_are_the_brewing_companies_in_Fanewick@20260419_211738.md",
+    "copilot/copilot-conversations/Book_2_What_are_the_brewing_companies_in_Fanewick@20260419_211652.md",
     "Book 2/Session 13/Path to Silversung By The Water.md",
+    "Characters/Faint Divinities/Pasted image 20260111224357.png",
+    "Characters/Fanewick/MoonMeadow Farm/Walla MoonMeadow.md",
+    "Characters/Fanewick/MoonMeadow Farm",
+    "Characters/Fanewick/MoonMeadow Farm/Wilt MoonMeadow.md",
+    "Characters/Fanewick/\"Two-Chime\" Fen.md",
+    "Characters/Fanewick/Silversung/Sloan.md",
+    "Characters/Main Cast/Braden.md",
+    "Characters/Main Cast/Jwen.md",
+    "Characters/Main Cast/Leap.md",
+    "Characters/Fanewick/Silversung/Leighton.md",
+    "Characters/Fanewick/Silversung/Rowan.md",
     "Book 2/Session 13/MoonMeadow \"Sheep\" Battle.md",
-    "Book 2/Session 12/Preparing for Travel.md",
     "Book 2/Session 12/Journey to Silversung.md",
-    "copilot/copilot-conversations/Book_2Session_12_Summarise_in_3_sentences_and_make_sure@20260407_215742.md",
-    "Lequacious.md",
-    "copilot/copilot-conversations/Book_2Session_12_Summarise_in_3_sentences@20260407_212752.md",
-    "copilot/copilot-conversations/What_happened_in_Session_12_Book_2@20260407_200655.md",
-    "copilot/copilot-conversations/What_happened_in_Book2Session_12@20260407_200615.md",
-    "copilot/copilot-conversations/What_happened_in_Session_12@20260407_200513.md",
-    "copilot/copilot-conversations/What_happened_in_Session_12@20260407_200345.md",
-    "Geography/Haven/Haven.md",
+    "Book 2/Session 13/Aftermath at the Barn.md",
+    "Book 2/Session 14",
     "Book 2/Session 13",
     "Book 2/Session 12/Untitled",
-    "Geography/Fanewick/The Treasure Spot.md",
-    "Characters/Haven/Aberdeen/Lady Katherine Evelin.md",
-    "Characters/Haven/Aberdeen/Miron Evelin.md",
-    "Characters/Haven/Aberdeen/Caedric Evelin.md",
-    "Characters/Haven/Aberdeen/Lady Maria Evelin.md",
-    "Characters/Haven/Aberdeen/Lord John-Paul Evelin.md",
-    "Characters/Haven/Aberdeen/Alistair Evelin.md",
-    "Characters/Haven/Aberdeen/Sir E'laina Stormvale \"Ironbird\".md",
-    "Characters/Main Cast/Bug.md",
-    "Characters/Main Cast/Kaen Evelin.md",
-    "Characters/Main Cast/Kuo Lema El Lema.md",
-    "Characters/Main Cast/Luna.md",
     "Map.png",
     "Items",
     "Characters/Haven/Colossa/Blood Hollow",
@@ -292,10 +262,7 @@
     "Characters/Haven/Aberdeen",
     "Characters/Fanewick/Willokai",
     "Characters/Haven",
-    "Characters/Fanewick",
-    "Geography",
     "Untitled.canvas",
-    "Characters/Fanewick/Pasted image 20260111224357.png",
     "Pasted image 20260111224408.png"
   ]
 }
