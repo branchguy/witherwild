@@ -1,2 +1,3 @@
-The praying mantis fairy
+The praying mantis fairy in [[Hornucopia]]
+
 tags: #character 
