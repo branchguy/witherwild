@@ -11,10 +11,28 @@
             "id": "ebb519efe1d35caa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Book 2/Session 15/Dropping the Ball.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dropping the Ball"
+            }
+          },
+          {
+            "id": "aa03186be96b9e69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book 2/Session 15/The Battle Downstairs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Battle Downstairs"
             }
           }
         ]
@@ -150,12 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Book 2/Session 15/Dropping the Ball.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Dropping the Ball"
             }
           },
           {
@@ -222,13 +241,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ebb519efe1d35caa",
+  "active": "9803a3fb597e7191",
   "lastOpenFiles": [
+    "Book 2/Session 15/The Battle Downstairs.md",
+    "Groups and Factions/Fanewick/Shade-stitcher.md",
+    "Groups and Factions/Haven/House of Evelin.md",
+    "Groups and Factions/Haven/Purple Coats.md",
+    "Groups and Factions/Fanewick/Molten Reed.md",
+    "Book 2/Session 15/Dropping the Ball.md",
+    "Book 2/Session 15/They knew we were coming.md",
+    "Ophelia's Whereabouts.md",
+    "Characters/Main Cast/Luna.md",
+    "Book 2/Session 14/The One and Only Gnome Brewing.md",
+    "Book 2/Session 15",
     "Characters/Fanewick/Hornucopia/Prince.md",
     "Book 2/Session 14/Arriving at Silversung.md",
     "Characters/Fanewick/Silversung/Esh Grubpick.md",
     "Characters/Fanewick/MoonMeadow Farm/Lequacious.md",
-    "Book 2/Session 14/The One and Only Gnome Brewing.md",
     "Book 2/Session 14/Kaen and Kuo make contact.md",
     "Book 2/Session 14/Ophelia and Luna sneak in.md",
     "copilot/copilot-conversations/Session_14_Summary_Title@20260419_220421.md",
@@ -243,15 +272,6 @@
     "Characters/Fanewick/MoonMeadow Farm/Walla MoonMeadow.md",
     "Characters/Fanewick/MoonMeadow Farm",
     "Characters/Fanewick/MoonMeadow Farm/Wilt MoonMeadow.md",
-    "Characters/Fanewick/\"Two-Chime\" Fen.md",
-    "Characters/Fanewick/Silversung/Sloan.md",
-    "Characters/Main Cast/Braden.md",
-    "Characters/Main Cast/Jwen.md",
-    "Characters/Main Cast/Leap.md",
-    "Characters/Fanewick/Silversung/Leighton.md",
-    "Characters/Fanewick/Silversung/Rowan.md",
-    "Book 2/Session 13/MoonMeadow \"Sheep\" Battle.md",
-    "Book 2/Session 12/Journey to Silversung.md",
     "Book 2/Session 14",
     "Book 2/Session 13",
     "Book 2/Session 12/Untitled",
@@ -261,7 +281,6 @@
     "Characters/Haven/Colossa",
     "Characters/Haven/Aberdeen",
     "Characters/Fanewick/Willokai",
-    "Characters/Haven",
     "Untitled.canvas",
     "Pasted image 20260111224408.png"
   ]
