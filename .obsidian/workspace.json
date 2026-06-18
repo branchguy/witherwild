@@ -13,26 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book 2/Session 17/Head Back to Silversung.md",
+                "file": "Geography/Fanewick/Crows Landing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Head Back to Silversung"
+              "title": "Crows Landing"
             }
           },
           {
             "id": "0050e8bcb6348a07",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book 2/Session 17/The Cellar to Rest.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Cellar to Rest"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -183,13 +179,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book 2/Session 17/The Cellar to Rest.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Cellar to Rest"
+              "title": "Outline"
             }
           },
           {
@@ -256,18 +251,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9803a3fb597e7191",
+  "active": "0050e8bcb6348a07",
   "lastOpenFiles": [
-    "Characters/Fanewick/Silversung/Bowen.md",
     "Book 2/Session 17/The Cellar to Rest.md",
+    "Geography/Fanewick/Crows Landing.md",
+    "Characters/Main Cast/Leap.md",
+    "Characters/Main Cast/Luna.md",
+    "Characters/Main Cast/Kaen Evelin.md",
     "Book 2/Session 17/Head Back to Silversung.md",
+    "Characters/Fanewick/Silversung/Bowen.md",
     "Book 2/Session 14/The One and Only Gnome Brewing.md",
     "Book 2/Session 14/Ophelia and Luna sneak in.md",
     "Book 2/Session 14/Arriving at Silversung.md",
     "Book 2/Session 15/Dropping the Ball.md",
     "Book 2/Session 15/Ophelia's Whereabouts.md",
     "Book 2/Session 15/The Battle Downstairs.md",
-    "Characters/Main Cast/Leap.md",
     "Book 2/Session 16/After the girl!.md",
     "Book 2/Session 17/Enter the Shadow Circle.md",
     "Book 2/Session 16/Monochrome City.md",
@@ -278,15 +276,12 @@
     "Groups and Factions/Haven/Purple Coats.md",
     "Groups and Factions/Fanewick/Molten Reed.md",
     "Book 2/Session 15/They knew we were coming.md",
-    "Characters/Main Cast/Luna.md",
     "Book 2/Session 15",
     "Characters/Fanewick/Hornucopia/Prince.md",
     "Characters/Fanewick/Silversung/Esh Grubpick.md",
     "Characters/Fanewick/MoonMeadow Farm/Lequacious.md",
     "Book 2/Session 14/Kaen and Kuo make contact.md",
     "copilot/copilot-conversations/Session_14_Summary_Title@20260419_220421.md",
-    "Characters/Fanewick/Silversung/Sulphie.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
     "Characters/Faint Divinities/Pasted image 20260111224357.png",
     "Characters/Fanewick/MoonMeadow Farm",
     "Book 2/Session 14",
