@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book 2/Session 16/Monochrome City.md",
+                "file": "Book 2/Session 17/Enter the Shadow Circle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monochrome City"
+              "title": "Enter the Shadow Circle"
             }
           }
         ],
@@ -242,10 +242,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9803a3fb597e7191",
+  "active": "76774535efe95ae3",
   "lastOpenFiles": [
-    "Book 2/Session 16/After the girl!.md",
     "Book 2/Session 16/Monochrome City.md",
+    "Book 2/Session 17/Enter the Shadow Circle.md",
+    "Book 2/Session 17",
+    "Book 2/Session 16/After the girl!.md",
     "Book 2/Session 15/Ophelia's Whereabouts.md",
     "Book 2/Session 15/The Battle Downstairs.md",
     "Book 2/Session 15/Dropping the Ball.md",
@@ -271,7 +273,6 @@
     "Characters/Fanewick/Silversung/Jasper.md",
     "copilot/copilot-conversations/Book_2_What_are_the_brewing_companies_in_Fanewick@20260419_211738.md",
     "copilot/copilot-conversations/Book_2_What_are_the_brewing_companies_in_Fanewick@20260419_211652.md",
-    "Book 2/Session 13/Path to Silversung By The Water.md",
     "Characters/Faint Divinities/Pasted image 20260111224357.png",
     "Characters/Fanewick/MoonMeadow Farm",
     "Book 2/Session 14",
@@ -281,7 +282,6 @@
     "Items",
     "Characters/Haven/Colossa/Blood Hollow",
     "Characters/Haven/Colossa",
-    "Characters/Haven/Aberdeen",
     "Untitled.canvas",
     "Pasted image 20260111224408.png"
   ]

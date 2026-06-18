@@ -58,4 +58,4 @@ DM:
 
 The party ties up the last child. [[Luna]] feels, anger, disappointment, fury from [[Sulphie]], her fists are clenched with her gloves, picks up a child in a fireman pose and walks through the circle
 
-Each of the party members enter the circle. 
+Each of the party members [[Enter the Shadow Circle]].
