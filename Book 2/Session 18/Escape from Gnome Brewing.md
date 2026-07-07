@@ -2,7 +2,7 @@
 The team and Luna uses clay to disguise the wanted elf girl [[Sloan]] as an old lady.
 
 
-> [[Bowen]]: I was told that this little girl was here, but I'm going to level with you, all my knights, don't want to be here. The only reason Gideon has us here is his **sister is missing**. Otherwise we'd be long gone, I don't want to be here. Last I heard, a bunch of wicklings played rebellion and kidnapped our girl. 
+> [[Bowen]]: I was told that this little girl was here, but I'm going to level with you, all my knights, don't want to be here. The only reason Gidion has us here is his **sister is missing**. Otherwise we'd be long gone, I don't want to be here. Last I heard, a bunch of wicklings played rebellion and kidnapped our girl. 
 > Leap: I told you there's isnt anyone there. I don't know anything. 
 > Kuo: I thought there was someone there, but I don't. 
 > [[Bowen]]: Who is down there
@@ -33,7 +33,7 @@ Kuo bottles a vial of some Leap ooze.
 Fear: 4
 The party hears a loud neigh from a loud horse. "Calm down, calm down, nugget. Its ok." Everyone (except [[Kaen Evelin]]) sees the elderly version of [[Sloan]], and blinks confused. Sloan says, "Nugget...what...how do I know....?" It seems there's a golden gleam in her eye every once in a while. "I don't know..."
 
-Kuo: Do you know Gideon?
+Kuo: Do you know Gidion?
 Sloan: I don't know...that's my horse, they weren't at the cabin, I wasn't at the cabin either...
 Sloan's eyes do not longer have any darkness in them.
 
@@ -52,26 +52,37 @@ Sloan stumbles on the ground frightened.
 > Leap & Kuo go back and forth on weather to eat the child and how to get information
 > Kuo: I agree El we should eat them
 > Ophelia finally talks to the child
-> Sloan: I remember when we came to Silversung, and I didn't want to come, but Gideon said I had to, and that it'd would only be a few days and then we'd go back home. We would go back to the camp, and one night I heard someone singing, and I went outside to see who was singing, and Gideon said we needed to pick the flowers because he said we needed them. And I kept picking the flowers, but I found a cabin and I remember playing but it was only few hours right?
+> Sloan: I remember when we came to Silversung, and I didn't want to come, but Gidion said I had to, and that it'd would only be a few days and then we'd go back home. We would go back to the camp, and one night I heard someone singing, and I went outside to see who was singing, and Gidion said we needed to pick the flowers because he said we needed them. And I kept picking the flowers, but I found a cabin and I remember playing but it was only few hours right?
 > Ophelia: You've be gone for a bit longer sweetie
 > Sloan: Our mom was there, and she wasn't sick anymore! She's okay!
 > Luna: I'm sorry kid, that's not true, we all saw our moms.
 > Ophelia: Did your bother tell you about the demons here?
 > Sloan: He told me not to wander off on our own, that there were creatures here, but it was our mom! She's been living in the cabin the whole time, she didn't die!
 > Ophelia: This creature was meant to scare you and deceive you. It used you.
-> Sloan: Gideon didn't let me see her in the hospital, and it's been a year since then. But I saw her! She was fine. She wasn't coughing anymore.
+> Sloan: Gidion didn't let me see her in the hospital, and it's been a year since then. But I saw her! She was fine. She wasn't coughing anymore.
 > Ophelia: what did you mom look like before she was sick?
 > Sloan: She was blonde and so pretty, and she wore the blue dress we got her, she was playing with us like she always did in the fields
 
 The other two kids don't have the memory she had. 
 
 >Sloan: That's [[Atlas]], and the other one is [[Phoebe]].
- >Kaen: What color were the flowers you saw
+>Kaen: What color were the flowers you saw
 >Sloan: Black flowers, they led to the place we stayed Camp Evelin
 >Kaen: Camp what?
 >Sloan: Camp Evelin where we stayed.
 >Kaen goes silent.
 >Sloan: Are you all the people are trying to hurt us? My brother said all the people are trying to hurt us look like him (points at Kuo)
->
+
+
+Jasper begins his interrogation, a hum comes from his hood, he puts a blade on her throat. "One move and she dies shadestitcher, your move." There's silence and no movement, as if in response saying she no won't come. Jasper gives up and realizes Ophelia has drawn her sword. 
+
+> Jasper: Do not mess with me. I will gladly kill all of you to get that orb back. Whatever I need to do for my family.
+
+> Jasper: We're going south to Crows Landing, we'll be west of the river banks, south of town, we'll be at the burned bridge.
+
+Taking both the kids with them they escape through a window as the party decides to leave the Tavern to [[Walk onto Silversung]]
+
+
+Fear: 4
 
 
