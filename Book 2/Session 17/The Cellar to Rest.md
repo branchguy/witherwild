@@ -87,3 +87,5 @@ There's footsteps upstairs, and [[Kuo Lema El Lema]] and [[Leap]] head upstairs 
 > Kuo: The girl is in the basement.
 
 Leaps goes stiff, and his shadow lifts off the floor, and it engulfs Leap and it's a 6 foot terrifying presence, "You don't want to look in the basement" as pedals like feathers fall begin to fall off. All the knights take out their weapons in fear, the main knight orders [[Bowen]] and [[Leighton]] out. "GO!"
+
+Next the party makes their [[Escape from Gnome Brewing]]

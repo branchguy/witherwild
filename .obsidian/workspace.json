@@ -13,22 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Fanewick/Crows Landing.md",
+                "file": "Book 2/Session 18/Escape from Gnome Brewing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crows Landing"
-            }
-          },
-          {
-            "id": "0050e8bcb6348a07",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Escape from Gnome Brewing"
             }
           },
           {
@@ -45,8 +35,7 @@
               "title": "Bowen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,15 +240,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0050e8bcb6348a07",
+  "active": "1aec3deec1f45203",
   "lastOpenFiles": [
-    "Book 2/Session 17/The Cellar to Rest.md",
     "Geography/Fanewick/Crows Landing.md",
+    "Characters/Fanewick/Silversung/Bowen.md",
+    "Characters/Fanewick/Silversung/Sloan.md",
+    "Book 2/Session 18/Escape from Gnome Brewing.md",
+    "Book 2/Session 17/The Cellar to Rest.md",
+    "Book 2/Session 18",
+    "Book 2/Session 17/Untitled",
     "Characters/Main Cast/Leap.md",
     "Characters/Main Cast/Luna.md",
     "Characters/Main Cast/Kaen Evelin.md",
     "Book 2/Session 17/Head Back to Silversung.md",
-    "Characters/Fanewick/Silversung/Bowen.md",
     "Book 2/Session 14/The One and Only Gnome Brewing.md",
     "Book 2/Session 14/Ophelia and Luna sneak in.md",
     "Book 2/Session 14/Arriving at Silversung.md",
@@ -280,8 +273,6 @@
     "Characters/Fanewick/Hornucopia/Prince.md",
     "Characters/Fanewick/Silversung/Esh Grubpick.md",
     "Characters/Fanewick/MoonMeadow Farm/Lequacious.md",
-    "Book 2/Session 14/Kaen and Kuo make contact.md",
-    "copilot/copilot-conversations/Session_14_Summary_Title@20260419_220421.md",
     "Characters/Faint Divinities/Pasted image 20260111224357.png",
     "Characters/Fanewick/MoonMeadow Farm",
     "Book 2/Session 14",
@@ -289,8 +280,6 @@
     "Book 2/Session 12/Untitled",
     "Map.png",
     "Items",
-    "Characters/Haven/Colossa/Blood Hollow",
-    "Characters/Haven/Colossa",
     "Untitled.canvas",
     "Pasted image 20260111224408.png"
   ]
