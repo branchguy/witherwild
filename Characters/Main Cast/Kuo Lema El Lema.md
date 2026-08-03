@@ -4,6 +4,7 @@
 - Has some faint Divinity essence that implies he's something close to a demigod
 - Has ties to the [[The Meridian Forge]]
 - Keeps seeing an older woman spirit inside [[Ophelia]]
+- According to [[Nadris]] his staff, he wouldn't be alive if not for the eternal spring
 
 #### Personality
 - Has two voices that speak in conversation, and each don't have knowledge the other exists

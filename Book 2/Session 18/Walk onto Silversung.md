@@ -13,6 +13,16 @@ Bowen: Oh Sloan...I can give you a reward if you need.
 > Gidion: My name is [[Gidion Hartlind]]. Who should I be thanking for bringing back my dear sister.
 > 
 
+...
+
 Kuo tells a story about the Shade stitcher
+
+....
+
+Ophelia: Name a single refugee, name a single person you killed.
+
+....
+
+> Kaen to Gidion: If you want to help, stay away from my friends, and tell [[Caedric Evelin]] to fuck off
 
 
