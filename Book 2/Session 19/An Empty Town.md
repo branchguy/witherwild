@@ -12,3 +12,5 @@ An hour later, [[Jasper]] and [[Sulphie]] show up to confront [[Luna]] and the p
 
 
 Jasper walks into the Temple and opens up a trap door in the ceiling, "For those of you who can't fly this is where the altar is."
+
+The party climbes inside the [[Hatch in the Temple]]

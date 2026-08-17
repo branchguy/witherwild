@@ -4,4 +4,4 @@
 Mother of [[Finn]]
 Mis-recognized [[Kuo Lema El Lema]] as [[Spruce]] another robot
 
-tags: 
+tags: #character 
