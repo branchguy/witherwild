@@ -65,7 +65,7 @@ Sloan stumbles on the ground frightened.
 
 The other two kids don't have the memory she had. 
 
->Sloan: That's [[Atlas]], and the other one is [[Phoebe]].
+>Sloan: That's [[Atlas]], and the other one is [[Phoebee]].
 >Kaen: What color were the flowers you saw
 >Sloan: Black flowers, they led to the place we stayed Camp Evelin
 >Kaen: Camp what?

@@ -1,5 +1,5 @@
 
-Large branches sprout from the main tree that makes up the temple in this upper floor, 60 feet above the ground
+Large very large tree branches sprout from the main tree that makes up the circular plaform atop the temple in this upper floor, 60 feet above the ground.
 
 The party meets [[Mercury]] another one of the [[Luminarks]], the group that both [[Jasper]] and [[Sulphie]] are part of
 
@@ -22,5 +22,10 @@ The party learns from Mercury that Moth fairies can extract the energy and soul 
 
 The party prepares with minor health potions, mushroom armour, and encouragement as they prepare for the ritual that [[Mercury]] prepares with some red liquid. Kuo realizes that he's seen this ritual before, full of cursive swirls, and without harsh corners in lines, as if the runes are fighting for space in a chaotic canvas, where he sees "old Ophelia."
 
+The children we're protecting are [[Phoebee]], and [[Atlas]].
+
 
 Our home is to east, it is called [[The Hive]], and Jasper explains after the orb is retrieved, they will return home.
+
+
+[[Mercury]] begins as the [[Party Defends the Ritual?]]
