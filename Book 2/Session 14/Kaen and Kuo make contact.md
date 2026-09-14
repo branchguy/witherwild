@@ -35,7 +35,7 @@ This is the division between the North and Southern part of town which has more 
 All citizens keep a distance from the soliders.
 
 > [[Kuo Lema El Lema]]: I want to report a solider a to a supervisor. I would like to make the report to a supervisor if possible
-> Haven soldier: Well if every complain went to [[Gidion]] then we'd bee here all day
+> Haven soldier: Well if every complain went to [[Gidion Hartlind]] then we'd bee here all day
 > [[Kuo Lema El Lema]]: The gate guards are accepting bribes and out of concern I think this should be investigated.
 > Haven Solider: We don't get reports often from **Wicklings**
 > Kuo: What's that
