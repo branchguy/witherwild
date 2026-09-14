@@ -21,4 +21,4 @@ A taller man with a wizard like face and deep orange scales draped in a simple b
 > "Oh miss please please don't touch that!" He says to Ophelia.
 > "Would you like a dinner, there's may be a enough room. Please come in I'll add some water to the broth I guess"
 
-Kelp the one eye'd feline follows the party inside.
+Kelp the one eye'd feline follows the party inside. [[Inside the Cabin with Kelp]]

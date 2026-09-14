@@ -15,7 +15,7 @@ Luna, Ophelia and Kaen approach the bar.
 >
 >Barkeep: Name's [[Esh Grubpick]]. I'll take your order: a couple waters, some grub, some fish. Do you want a room upstairs?
 > Oh you have rooms 
- > [[Esh]]: Yeah that's my roommate over there \*points at a fawn playing the flute\* 
+ > [[Esh Grubpick]]: Yeah that's my roommate over there \*points at a fawn playing the flute\* 
  > [[Jasper]]: What's taking so long?
  > [[Ophelia]]: We got you a fish!
  
