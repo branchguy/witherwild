@@ -76,4 +76,22 @@ Glances to the names
 > [[Ophelia]]: Lets make some carrot cake, how about that?
 > [[Howard]]: I would like that...
 
-The party takes a long rest.
+
+The party takes a long rest, near the fire-pit that they gather together with stones and light using [[Kaen Evelin]] spear
+
+Ophelia calls out to her Faint Divinity, [[Lady of the Lake]].
+
+> [[Lady of the Lake]]: Hello my child what troubles you?
+> Ophelia: I"m confused at when I can do. and why I'm a tree? Why am I tree? I feel kind of like a freak sometimes, because I'm so big, but my sword drips water, and I think when I see my family again they'll think I look crazy.
+> [[Lady of the Lake]]: when you fell into that lake that night, ophelia there was very little breath in your lungs, and i saw in you someone that would protect others and protect the home we love so dearly in a way that I could not. In a way that this is a first for you, this is a first for me. I've never granted a mortal this power before, and I apologize for the consequences, but I am proud of the actions you take no matter the physical qualities that change. I am part of the lake, and maybe that limited experience let to your change in form.
+> Ophelia: Can you guide me how best I can hone your power?
+> [[Lady of the Lake]]: I'm not sure you're going to like the answer Ophelia. But I think these things just take time. And I mentioned before what you have been granted by me is nearly all I have, and I store nothing. I am proud of how you use my power in creative ways.
+> [[Ophelia]]: I just don't know if there's enough time. There's people in Haven that are trying to kill us, there's an orb, there's people dying, but it takes time.....
+> Ophelia: I have to rush or be better now or else people are going to die! I have to save these children or else they're going to die
+> [[Lady of the Lake]]: Faint Divinity, the Divinity of the East Banks, that Cat has chosen to live life along that man inside. They've formed a relationship, in such a unique time, a unique bond. And I'm sure it has not always been that way. He believes that Kelp will protect him and Kelp believes he will be fed and cared for. I'm sure it does not come easy, but it will take time. You are doing nothing wrong. I belive in you Ophelia, you've earned that belief, not just from I but from friends. It takes water to help plants grow. You are growing.
+> [[Ophelia]]: How do I forgive somebody for someone who sees the world differently than you?
+> [[Lady of the Lake]]: I don't know if I'm the best one to ask that question. I believe you'll find the answer. We all drink from the same cup.
+
+The prayer concludes.
+
+[[Leap]] force feeds Jwen and Braden flies. 
