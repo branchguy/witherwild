@@ -30,3 +30,35 @@ Turn 4:
 Turn 4 DM:
 * The other mer-folk wakes up from the stun and attacks [[Leap]]
 * The Water Elemental also blasts [[Leap]] with water
+
+Turn 5:
+* [[Leap]] attempts to attack and calls to his warlock to do severe damage to slay the water elemental by siphoning it and absorbing all the water into the staff, freeing [[Luna]] and [[Kaen Evelin]]
+* [[Luna]] barely treading water tries to attack the fish-dog and can't seem to reach
+
+Turn 5 DM:
+* The Fish-dog swings it's claw at [[Luna]] and drags her down into the water and Luna seems to get free
+* Ophelia gets attacked by the Mer-folk again as the Female Mer-lady stabs her in the leg "Do not mess with our query.... hisss"
+
+Turn 6:
+* As the mer-lady hisses at Ophelia and swims aay casts bolt beacon, and the water begins to rupture and a traps the Mer-Lady in a whirlpool of and seaweed wraps her as the water explodes killing the monster
+
+Turn 6 DM:
+* [[Kaen Evelin]] tries to swing down instinctively as the Fish-dog swims by but the slimy texture of the dog seems to evade him, and it whips towards [[Kuo Lema El Lema]] and digs it claws into Kuo's metal and pulls him towards the statue. Kuo: "You may not live long enough to regret that."
+
+Turn 7:
+* [[Leap]] walks towards the Fish-dog with the chest, and picks up the chest and the fish-dog is hanging from it, it's expression agasp as [[Leap]] secures the loot much to Luna's relief.
+* [[Luna]] conjoured a swarm of fireflies and burns and eats alive the Mer-folk and the Water-dog  near Kuo Lema
+
+Turn 7 DM:
+* The water-dog pulls [[Kuo Lema El Lema]] into the water
+* The mer-man realizes the battle isn't going well, "Fuck this" and tries to swim away
+
+Turn 8: 
+* [[Ophelia]] siphons the water from the coward Mer-man and the water explodes around him killing the monster limp in the water
+* Ophelia swims over and jumps onto [[Leap]]'s back
+* Leap uses his tongue to grab a large chunk of the loot in the water, and grabs so much treasure that the merfolk gathered and he can barely breathe
+* [[Kuo Lema El Lema]] casts siphon essense on the water-dog and kills the monster.
+
+The last two monsters understand they've lost the battle and while one still can't see, Ophelia gives gold to one and it runs away.
+
+Combat ends and the party begins to [[Inspect the Sunken Loot]]
