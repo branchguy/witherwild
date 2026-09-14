@@ -1,3 +1,3 @@
-[[Luna]]'s companions controlled by the [[Shade-stitcher]]
+Controlled by the [[Shade-stitcher]]
 
 tags: #character 

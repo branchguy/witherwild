@@ -34,4 +34,4 @@ Ophelia runs over: "Woah woah woah not yours! Not yours!"
 The female of the group hisses with her razor teeth: "They're still near...."
 
 Ophelia jumps in scare and bolt beacons and combat begins
-[[Combat]]
+[[Combat near the Shore]]
