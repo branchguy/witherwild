@@ -2,7 +2,8 @@
  [[Phoebee]] checks in with the party
 
 [[Howard]] : I appreciate what you did last night
-[[Luna]]: 
+[[Luna]]: Your welcome, Harold
+[[Howard]]: It's Howard.
 
 Leap accidentally eats [[Phoebee]] and then spits her out
  
