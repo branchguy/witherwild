@@ -84,7 +84,7 @@ Ophelia calls out to her Faint Divinity, [[Lady of the Lake]].
 > [[Lady of the Lake]]: Hello my child what troubles you?
 > Ophelia: I"m confused at when I can do. and why I'm a tree? Why am I tree? I feel kind of like a freak sometimes, because I'm so big, but my sword drips water, and I think when I see my family again they'll think I look crazy.
 > [[Lady of the Lake]]: when you fell into that lake that night, ophelia there was very little breath in your lungs, and i saw in you someone that would protect others and protect the home we love so dearly in a way that I could not. In a way that this is a first for you, this is a first for me. I've never granted a mortal this power before, and I apologize for the consequences, but I am proud of the actions you take no matter the physical qualities that change. I am part of the lake, and maybe that limited experience let to your change in form.
-> Ophelia: Can you guide me how best I can hone your power?
+> [[Ophelia]]: Can you guide me how best I can hone your power?
 > [[Lady of the Lake]]: I'm not sure you're going to like the answer Ophelia. But I think these things just take time. And I mentioned before what you have been granted by me is nearly all I have, and I store nothing. I am proud of how you use my power in creative ways.
 > [[Ophelia]]: I just don't know if there's enough time. There's people in Haven that are trying to kill us, there's an orb, there's people dying, but it takes time.....
 > Ophelia: I have to rush or be better now or else people are going to die! I have to save these children or else they're going to die
