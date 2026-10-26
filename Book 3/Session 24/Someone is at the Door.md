@@ -44,3 +44,7 @@ Prince tries to glaze the party and connect with [[Kaen Evelin]] but is met with
 
 [[Phoebee]]: "Even though your mommy and daddy are gone, I think your mommy and daddy would be happy you have these people with you. I can share my mommy and daddy if you want." 
 [[Kaen Evelin]]: "Thank you"
+
+The party begins to exit all except [[Leap]] suck in his giant form
+
+[[Exiting the Burrow]]
