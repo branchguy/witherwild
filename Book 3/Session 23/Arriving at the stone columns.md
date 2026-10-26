@@ -12,3 +12,5 @@ The voice comes from above. There seems to be a silhouettes, with what seems to 
 The bow loosens slightly. And a knife spirals down in a groove that already exists, 5 foot tall, red scarf, a praying mantis what seems to be [[Prince]]! 
 
 > [[Prince]]: [[Phoebee]] but you've been gone for so long. It's been eight years? How are you still alive?
+
+[The sun sets](The Sunset in Fangroot)
